@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6F28E61A058F261EE4ABE0524EF50CF54974A7A1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "371cef98-3a89-4023-b202-dd5c91b28d9f++6556" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "371cef98-3a89-4023-b202-dd5c91b28d9f++6556" : 0,
+    "6F28E61A058F261EE4ABE0524EF50CF54974A7A1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F5287AA5-B9CC-4713-BE87-8EC41F998EF4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "371cef98-3a89-4023-b202-dd5c91b28d9f++6556" : "",
+    "6F28E61A058F261EE4ABE0524EF50CF54974A7A1" : "cs225honors\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VoronoiArt",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "cs225honors-Seurat-1abfb1cf039c6221ce9073ac47db5fcb20abdb92\/VoronoiArt.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/subversion.ews.illinois.edu\/svn\/sp16-cs225",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "371cef98-3a89-4023-b202-dd5c91b28d9f++6556"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gitlab-beta.engr.illinois.edu\/ezhuang2\/cs225honors.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F28E61A058F261EE4ABE0524EF50CF54974A7A1"
+    }
+  ]
+}
